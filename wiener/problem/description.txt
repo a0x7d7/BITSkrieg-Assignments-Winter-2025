@@ -1,0 +1,2 @@
+The administrator wanted the public exponent e to be really large, assuming it would make the encryption safer.
+It did... ...did smtg bad.

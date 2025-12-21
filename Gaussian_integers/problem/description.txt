@@ -1,0 +1,4 @@
+We found this strange encryption system that operates over Gaussian Integers (\mathbb{Z}[i]) instead of standard integers. The admin claims it's "twice as secure" because it uses complex numbers. 
+
+We managed to intercept the public key parameters and the ciphertext.
+Can you break the complex encryption and verify if their implementation is truly secure?
