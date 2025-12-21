@@ -46,7 +46,6 @@ for k, d in convs:
     if disc >= 0:
         t = int(math.isqrt(disc))
         if t * t == disc:
-            # Found correct d
             print("d:", d)
 
             m = pow(c, d, N)
