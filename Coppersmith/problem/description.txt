@@ -1,0 +1,5 @@
+I generated a secure 1024-bit RSA key. 
+But my printer jammed and printed out the top 420 bits of the prime factor p.
+
+Surely that's not enough to factor the modulus $N? 
+There are still 92 bits of p unknown! That's 2^{92} possibilities!
