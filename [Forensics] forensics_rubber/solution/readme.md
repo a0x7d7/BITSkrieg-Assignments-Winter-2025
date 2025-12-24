@@ -69,6 +69,13 @@ Thus, the final part of the flag is `l0g5}`
 
 ---
 
+### Notes
+
+Mechanism of `\unhbox \voidb@x \kern .06em \vbox{\hrule width .3em}`
+
+`\unhbox \voidb@x` emits the contents of `\voidb@x`, `\kern .06em` inserts a positive horizontal kern of .06 em to the right, and `\vbox{\hrule width .3em}` creates a vertical box whose reference point is on the text baseline and whose contents are a single horizontal rule .3 em wide which is then placed at that position
+
+---
 ### Extra Resources
 
 1. Display LaTeX online → https://www.quicklatex.com
