@@ -1,0 +1,130 @@
+Metadata of challenge
+
+The data shown is all the metadata we could automatically extract from your file. It may be neither complete nor adequate. Metadata could have been changed or deleted in the past. Please be aware that the metadata is provided without liability.
+
+ Checksum: dc12e2824d8fe2eaa9e76bee05848889
+ Filename: challenge.pdf
+ Filesize: 112 kB
+ Filetype: PDF
+ Filetypeextension: pdf
+ Mimetype: application/pdf
+ Pdfversion: 1.5
+ Linearized: No
+ Pagecount: 1
+ Pagemode: UseOutlines
+ Producer: MiKTeX pdfTeX-1.40.27
+ Author: The Professor
+ Title: Rubber
+ Subject: Part 5: l0g5}
+ Creator: Pdflatex
+ Createdate: 2025:12:21 22:35:39+05:30
+ Modifydate: 2025:12:21 22:35:39+05:30
+ Trapped: false
+ Ptex Fullbanner: This is MiKTeX-pdfTeX 4.21.0 (1.40.27)
+ Category: application
+ Title: Rubber
+ Subject: Part 5: l0g5}
+ Keywords: 
+ Author: The Professor
+ Creator: Pdflatex
+ Producer: MiKTeX pdfTeX-1.40.27
+ Creationdate: Sun Dec 21 18:05:39 2025 CET
+ Moddate: Sun Dec 21 18:05:39 2025 CET
+ Custom Metadata: yes
+ Metadata Stream: no
+ Tagged: no
+ Userproperties: no
+ Suspects: no
+ Form: none
+ Javascript: no
+ Pages: 1
+ Encrypted: no
+ Page Size: 612 x 792 pts (letter)
+ Page Rot: 0
+ File Size: 112017 bytes
+ Optimized: no
+ Pdf Version: 1.5
+ Pdf Fonts: 
+  0: 
+   Name: XVBJRJ+CMR17
+   Type: Type_1
+   Encoding: Builtin
+   Embedded: true
+   Subset: true
+   Unicode: true
+   Object Id: 7
+  1: 
+   Name: ICLWSW+CMR12
+   Type: Type_1
+   Encoding: Builtin
+   Embedded: true
+   Subset: true
+   Unicode: true
+   Object Id: 8
+  2: 
+   Name: BEEHJG+CMBX12
+   Type: Type_1
+   Encoding: Builtin
+   Embedded: true
+   Subset: true
+   Unicode: true
+   Object Id: 10
+  3: 
+   Name: JHGONK+CMR10
+   Type: Type_1
+   Encoding: Builtin
+   Embedded: true
+   Subset: true
+   Unicode: true
+   Object Id: 11
+  4: 
+   Name: CKDUVJ+CMR7
+   Type: Type_1
+   Encoding: Builtin
+   Embedded: true
+   Subset: true
+   Unicode: true
+   Object Id: 12
+  5: 
+   Name: RMWOOF+CMSY10
+   Type: Type_1
+   Encoding: Builtin
+   Embedded: true
+   Subset: true
+   Unicode: true
+   Object Id: 13
+  6: 
+   Name: PZKIYM+CMMI10
+   Type: Type_1
+   Encoding: Builtin
+   Embedded: true
+   Subset: true
+   Unicode: true
+   Object Id: 14
+  7: 
+   Name: BZWPWX+CMMI7
+   Type: Type_1
+   Encoding: Builtin
+   Embedded: true
+   Subset: true
+   Unicode: true
+   Object Id: 15
+  8: 
+   Name: EDZASH+CMBX10
+   Type: Type_1
+   Encoding: Builtin
+   Embedded: true
+   Subset: true
+   Unicode: true
+   Object Id: 16
+  9: 
+   Name: HRIJIP+CMBSY10
+   Type: Type_1
+   Encoding: Builtin
+   Embedded: true
+   Subset: true
+   Unicode: true
+   Object Id: 17
+ Pdf Images: 
+ Raw Header: 25 50 44 46 2D 31 2E 35 0A 25 D0 D4 C5 D8 0A 31 20 30 20 6F 62 6A 0A 3C 3C 20 2F 53 20 2F 47 6F 54 6F 20 2F 44 20 5B 32 20 30 20 52 20 2F 46 69 74 5D 20 3E 3E 0A 65 6E 64 6F 62 6A 0A 34 20 30 20 6F 62 6A 0A 3C 3C 0A 2F 4C 65 6E 67 74 68 20 39 34 37 20 20 20 20 20 20 20 0A 2F 46 69 6C 74 65 72 20 2F 46 6C 61 74 65 44 65 63 6F 64 65 0A 3E 3E 0A 73 74 72 65 61 6D 0A 78 DA B5 56 4D 73
+ Mediabox: 0: [object Object],[object Object],[object Object],[object Object]
